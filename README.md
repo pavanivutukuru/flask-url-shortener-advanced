@@ -51,15 +51,3 @@ The shortened URL redirects to the original website when clicked.
 
 The user's previously shortened URLs are displayed in the dashboard
 
-
-Example
-
-Input URL:
-
-https://www.google.com
-
-Generated Short URL:
-
-http://127.0.0.1:5000/3h0pC8
-
-Clicking the short URL redirects to the original website.
